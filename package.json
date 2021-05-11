@@ -10,7 +10,7 @@
     "cron": "^1.6.0",
     "crypto": "^0.0.3",
     "express": "^4.13.4",
-    "mongoose": "^4.4.19",
+    "mongoose": "^5.7.5",
     "ng-file-upload": "^12.2.13",
     "request": "^2.74.0",
     "underscore": "^1.8.3"
